@@ -1,0 +1,13 @@
+transaction_id,account_number,type,amount,balance,category
+T001,ACC1001,Deposit,5000,5000,Initial Deposit
+T002,ACC1001,Deposit,2000,7000,Salary
+T003,ACC1001,Withdrawal,1500,5500,Shopping
+T004,ACC1001,Deposit,3000,8500,Salary
+T005,ACC1001,Withdrawal,2500,6000,Food
+T006,ACC1001,Withdrawal,1000,5000,Transport
+T007,ACC1001,Deposit,1500,6500,Refund
+T008,ACC1001,Withdrawal,2000,4500,Shopping
+T009,ACC1001,Deposit,4000,8500,Salary
+T010,ACC1001,Withdrawal,1200,7300,Bills
+AUTO,ACC1001,Deposit,500,5500,Banking
+AUTO,aghtu,Deposit,400.0,5400.0,Banking
